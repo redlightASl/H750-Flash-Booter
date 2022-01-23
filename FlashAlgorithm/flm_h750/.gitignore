@@ -1,0 +1,11 @@
+.vscode
+Objects/
+
+*.map
+*.elf
+*.bin
+*.hex
+*.axf
+*.old
+build
+Debug
