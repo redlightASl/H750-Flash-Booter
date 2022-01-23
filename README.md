@@ -2,7 +2,7 @@
 
 [![License: GPL-3.0](https://img.shields.io/badge/license-GPL--3.0-blue)](https://github.com/redlightASl/H750-Flash-Booter/blob/master/LICENSE)
 
-[![image-20220123183658827](README.assets/image-20220123183658827.png)](https://github.com/redlightASl/H750-Flash-Booter)
+![image-20220123183658827](README.assets/image-20220123183658827.png)
 
 An stm32 external-SPI-Flash Bootloader powered by [RT-Thread](https://github.com/RT-Thread/rt-thread)
 
