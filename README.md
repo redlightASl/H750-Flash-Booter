@@ -1,4 +1,4 @@
-<img src="README.assets/image-20220123183658827.png">
+<img src="./README.assets/image-20220123183658827.png">
 
 # STM32H750 SPI Flash Bootloader
 
